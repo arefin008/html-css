@@ -1,0 +1,110 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.border-color {
+    border-left: 5px solid;
+    border-color: red;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgba(128, 0, 128, 0.721), tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.divide-page {
+    display: flex;
+    padding-bottom: 100px;
+    margin-left: 7%;
+    margin-top: 7%;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.header-2 {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.mission-container {
+    display: flex;
+    padding-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.mission-item {
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 10px;
+    border-radius: 26px;
+    /* box-shadow: 10px 10px 40px gray; */
+
+
+}
+
+.mission-item img {
+    width: 20%;
+}
+
+#mission-1 {
+    background-color: aliceblue;
+}
+
+#mission-2 {
+    background-color: antiquewhite;
+}
+
+#mission-3 {
+    background-color: azure;
+}
+
+.info {
+    background-image: url(images/123.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 10px 60px;
+    color: darkgray;
+    padding-bottom: 100px;
+
+}
+
+/* .para {
+    color: white;
+}
+
+.button-z {
+    text-align: center;
+} */
+
+.footer-background {
+    background-color: black;
+}
+
+.footer-head {
+    text-align: center;
+    color: white;
+}
+
+.footer-color {
+    color: red;
+}
